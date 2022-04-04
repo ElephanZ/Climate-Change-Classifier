@@ -1,7 +1,7 @@
 # Climate-Change-Classifier
 _Project of Social Media Management_
 
-_Grade of this project: ? / 30_
+_Grade of this project: 30 / 30_
 
 _Antonio Scardace_ @ 
 _Dept of Math and Computer Science, University of Catania_
