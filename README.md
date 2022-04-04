@@ -25,7 +25,7 @@ Each sentiment is labelled as one of the following classes:
 
 In the real world, there are probably a lot of applications for this project, but I have been interested by one in particular: <br/>
 Given the tweets of some Twitter Verified Accounts (VIP such as politicians or actors) we have to be able to understand how much these people care about climate change in their Twitter page. <br/>
-We will make tests on some US Verified Twitter profiles owned by well known activists (such as **Greta Thunberg** or **Leonardo Di Caprio**). <br/>
+I have made tests on some US Verified Twitter profiles owned by well known activists (such as **Greta Thunberg** or **Leonardo Di Caprio**). <br/>
 In time, with an appropriate dataset, may be maked analytics on how many VIPs are interested (and how) on climate change for each main job category (such as politics, cinema, football).
 
 ## License
