@@ -34,8 +34,8 @@ I got Pros 🆗 and Cons ⛔ in this project due to the basic models used, and t
 * 🆗 when tweets are really about climate change, the model works well enough.
 * 🆗 it is "quick" and was really useful for introduce me into Machine Learning world.
 * 🆗 it is easy to read and has been easy to write.
-* ⛔ when tweets are not about climate change, the model doesn't works (it base probably its prediction on tweet sentiment without really understand the topic).
 * ⛔ when tweets contains humorism, the model doesn't work very well.
+* ⛔ when tweets are not about climate change, the model doesn't works (it base probably its prediction on tweet sentiment without really understand the topic).
 
 To conclude: I have learned a lot by implementing this project. I have used in pratic a lot of theoric notions studied during my Social Media Management course at university
 
