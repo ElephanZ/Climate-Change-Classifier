@@ -23,7 +23,7 @@ Each sentiment is labelled as one of the following classes:
 
 ## Real World Application
 
-I've made tests on two US Verified Twitter profiles owned by well known activists (**Greta Thunberg** and **Leonardo Di Caprio**). <br/>
+I've made tests on two US Twitter profiles owned by well known activists (**Greta Thunberg** and **Leonardo Di Caprio**). <br/>
 In time, with an appropriate dataset, may be maked analytics on how many VIPs are interested (and how) on climate change for each main job category (such as politics, cinema, football, etc).
 
 ## Conclusions
@@ -35,7 +35,7 @@ I got Pros 🆗 and Cons ⛔ in this project due to the basic models used, and t
 * 🆗 when tweets are really about climate change, the model works well enough.
 * 🆗 it is "quick" and was really useful for introduce me into Machine Learning world.
 * 🆗 it is easy to read and has been easy to write.
-* ⛔ when tweets are not about climate change, the model doesn't works (it base probably its prediction on tweet sentiment without understand really the topic).
+* ⛔ when tweets are not about climate change, the model doesn't works (it base probably its prediction on tweet sentiment without really understand the topic).
 * ⛔ when tweets contains humorism, the model doesn't work very well.
 
 To conclude: I have learned a lot by implementing this project. I have used in pratic a lot of theoric notions studied during my Social Media Management course at university
