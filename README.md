@@ -23,10 +23,22 @@ Each sentiment is labelled as one of the following classes:
 
 ## Real World Application
 
-In the real world, there are probably a lot of applications for this project, but I have been interested by one in particular: <br/>
-Given the tweets of some Twitter Verified Accounts (VIP such as politicians or actors) we have to be able to understand how much these people care about climate change in their Twitter page. <br/>
 I have made tests on some US Verified Twitter profiles owned by well known activists (such as **Greta Thunberg** or **Leonardo Di Caprio**). <br/>
-In time, with an appropriate dataset, may be maked analytics on how many VIPs are interested (and how) on climate change for each main job category (such as politics, cinema, football).
+In time, with an appropriate dataset, may be maked analytics on how many VIPs are interested (and how) on climate change for each main job category (such as politics, cinema, football, etc).
+
+## Conclusions
+
+I have tested and compared five classification algorithms. The best is SVM, followed in order by Logistic Regression, SGD, K-Nearest Neighbors, and Multinomial Naive-Bayes. <br/>
+To better classify text should be used a Neural Network.
+
+I got Pros 🆗 and Cons ⛔ in this project due to the basic models used, and the not well-formed dataset (it isn't well proportioned):
+* 🆗 when tweets are really about climate change, the model works well enough.
+* 🆗 it is "quick" and was really useful for introduce me into Machine Learning world.
+* 🆗 it is easy to read and has been easy to write.
+* ⛔ when tweets are not about climate change, the model doesn't works (it base probably its prediction on tweet sentiment without understand really the topic).
+* ⛔ when tweets contains humorism, the model doesn't work very well.
+
+To conclude: I have learned a lot by implementing this project. I have used in pratic a lot of theoric notions studied during my Social Media Management course at university
 
 ## License
 
