@@ -23,7 +23,7 @@ Each sentiment is labelled as one of the following classes:
 
 ## Real World Application
 
-I have made tests on some US Verified Twitter profiles owned by well known activists (such as **Greta Thunberg** or **Leonardo Di Caprio**). <br/>
+I have made tests on some US Verified Twitter profiles owned by well known activists (**Greta Thunberg** and **Leonardo Di Caprio**). <br/>
 In time, with an appropriate dataset, may be maked analytics on how many VIPs are interested (and how) on climate change for each main job category (such as politics, cinema, football, etc).
 
 ## Conclusions
