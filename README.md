@@ -23,13 +23,12 @@ Each sentiment is labelled as one of the following classes:
 
 ## Real World Application
 
-I've made tests on two US Twitter profiles owned by well known activists (**Greta Thunberg** and **Leonardo Di Caprio**). <br/>
+I've made tests on two US profiles owned by well known activists (**Greta Thunberg** and **Leonardo Di Caprio**). <br/>
 In time, with an appropriate dataset, may be maked analytics on how many VIPs are interested (and how) on climate change for each main job category (such as politics, cinema, football, etc).
 
 ## Conclusions
 
-I have tested and compared five classification algorithms. The best is SVM, followed in order by Logistic Regression, SGD, K-Nearest Neighbors, and Multinomial Naive-Bayes. <br/>
-To better classify text should be used a Neural Network.
+I have tested and compared five classification algorithms. The best is SVM, followed in order by Logistic Regression, SGD, K-Nearest Neighbors, and Multinomial Naive-Bayes. To better classify text should be used a Neural Network.
 
 I got Pros 🆗 and Cons ⛔ in this project due to the basic models used, and the not well-proportioned dataset:
 * 🆗 when tweets are really about climate change, the model works well enough.
