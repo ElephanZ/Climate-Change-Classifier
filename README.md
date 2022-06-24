@@ -46,8 +46,7 @@ So that the repository is successfully cloned and project run smoothly, a few st
 ### Requisites
 
 * At least 10 cores of CPU.
-* Need to download and install [Jupyter Notebook](https://jupyter.org/install).
-  + I recommend to download, install, and use [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html#).
+* I recommend to downloading, installing, and using [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html#) that has  [Jupyter Notebook](https://jupyter.org/install) included.
 * The use of [Visual Studio Code](https://code.visualstudio.com/download) is recommended.
 * A lot of free time :joy:
 
