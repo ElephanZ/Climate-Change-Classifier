@@ -39,6 +39,18 @@ I got Pros 🆗 and Cons ⛔ in this project due to the basic models used, and t
 
 To conclude: I have learned a lot by implementing this project. I have used in pratic a lot of theoric notions studied during my Social Media Management course at university
 
+## Getting Started
+
+So that the repository is successfully cloned and project run smoothly, a few steps need to be followed.
+
+### Requisites
+
+* At least 10 cores of CPU.
+* Need to download and install [Jupyter Notebook](https://jupyter.org/install).
+  + I recommend to download, install, and use [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html#).
+* The use of [Visual Studio Code](https://code.visualstudio.com/download) is recommended.
+* A lot of free time :joy:
+
 ## License
 
 Distributed under the MIT License. See ``` LICENSE ``` for more information.
