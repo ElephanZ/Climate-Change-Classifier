@@ -37,8 +37,6 @@ I got Pros 🆗 and Cons ⛔ in this project due to the basic models used, and t
 * 🆗 it is easy to read and has been easy to write.
 * ⛔ when tweets contains humorism, the model doesn't work very well.
 
-To conclude: I have learned a lot by implementing this project. I have used in practice a lot of theoretic notions studied during my Social Media Management course at university.
-
 ## Getting Started
 
 So that the repository is successfully cloned and project run smoothly, a few steps need to be followed.
