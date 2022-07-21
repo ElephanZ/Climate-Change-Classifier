@@ -27,16 +27,6 @@ Each sentiment is labelled as one of the following classes:
 I've made tests on two US profiles owned by well-known activists - **Greta Thunberg** and **Leonardo Di Caprio**. <br/>
 In time, with an appropriate dataset, may be made analytics on how many VIPs are interested (and how) in climate change for each main job category (such as politics, cinema, and football).
 
-## Conclusions
-
-I have tested and compared five classification algorithms. The best is SVM, followed in order by Logistic Regression, SGD, K-Nearest Neighbors, and Multinomial Naive-Bayes. To better classify text should be used a Neural Network.
-
-I got Pros 🆗 and Cons ⛔ in this project due to the basic models used, and the not well-proportioned dataset:
-* 🆗 when tweets are really about climate change, the model works well enough.
-* 🆗 it is "quick" and was really useful for introduce me into Machine Learning world.
-* 🆗 it is easy to read and has been easy to write.
-* ⛔ when tweets contains humorism, the model doesn't work very well.
-
 ## Getting Started
 
 So that the repository is successfully cloned and project run smoothly, a few steps need to be followed.
