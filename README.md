@@ -8,7 +8,7 @@ _Dept of Math and Computer Science, University of Catania_
 
 ## Introduction
 
-This project consists, given a series of tweets about Climate Change, in figuring out whether the user (the author) is skeptic or supports the belief of man-made climate change. Once implemented, trained, and tested, this algorithm will be useful in some real contests.
+This project consists, given a series of tweets about Climate Change, in figuring out whether the user (the author) is skeptic or supports the belief of man-made climate change.
 
 To solve this problem, I have made an algorithm (a classifier) which has been trained on a **43943 tweets** dataset collected between 2015-04-27 and 2018-02-21 by ***Canada Foundation for Innovation JELF Grant to Chris Bauch, University of Waterloo***. <br/>
 Each row of the dataset contains: the text of the tweet labelled as '*message*', the tweet id labelled as '*tweetid*', and the sentiment of the tweet labelled as '*sentiment*'.
@@ -19,12 +19,13 @@ Each sentiment is labelled as one of the following classes:
 - ``1`` (**Pro**) &#8594; the tweet author supports the belief of man-made climate change;
 - ``2`` (**News**) &#8594; the tweet links to factual news about climate change;
 
-<img src="https://antonioscardace.altervista.org/smm/dataset_distr.png" alt="dataset tweets distribution" style="width: 550px; margin-top: 10px; border: 1px solid #555"/>
+<img src="https://antonioscardace.altervisI've made tests on two US profiles owned by well-known activists - Greta Thunberg and Leonardo Di Caprio.
+In time, with an appropriate dataset, may be made analytics on how many VIPs are interested (and how) in climate change for each main job category (such as politics, cinema, and football).ta.org/smm/dataset_distr.png" alt="dataset tweets distribution" style="width: 550px; margin-top: 10px; border: 1px solid #555"/>
 
 ## Real World Application
 
-I've made tests on two US profiles owned by well known activists (**Greta Thunberg** and **Leonardo Di Caprio**). <br/>
-In time, with an appropriate dataset, may be maked analytics on how many VIPs are interested (and how) on climate change for each main job category (such as politics, cinema, football, etc).
+I've made tests on two US profiles owned by well-known activists - **Greta Thunberg** and **Leonardo Di Caprio**. <br/>
+In time, with an appropriate dataset, may be made analytics on how many VIPs are interested (and how) in climate change for each main job category (such as politics, cinema, and football).
 
 ## Conclusions
 
@@ -35,9 +36,8 @@ I got Pros 🆗 and Cons ⛔ in this project due to the basic models used, and t
 * 🆗 it is "quick" and was really useful for introduce me into Machine Learning world.
 * 🆗 it is easy to read and has been easy to write.
 * ⛔ when tweets contains humorism, the model doesn't work very well.
-* ⛔ when tweets are not about climate change, the model doesn't works (it base probably its prediction on tweet sentiment without really understand the topic).
 
-To conclude: I have learned a lot by implementing this project. I have used in pratic a lot of theoric notions studied during my Social Media Management course at university
+To conclude: I have learned a lot by implementing this project. I have used in practice a lot of theoretic notions studied during my Social Media Management course at university.
 
 ## Getting Started
 
