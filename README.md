@@ -1,5 +1,5 @@
 # Climate-Change-Classifier
-_Project of Social Media Management (Machine Learning applied on Social Media contents)_
+_Project of Social Media Management (Machine Learning applied on Social Media)_
 
 _Grade of this project: 30 / 30_
 
