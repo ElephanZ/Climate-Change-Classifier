@@ -19,8 +19,7 @@ Each sentiment is labelled as one of the following classes:
 - ``1`` (**Pro**) &#8594; the tweet author supports the belief of man-made climate change;
 - ``2`` (**News**) &#8594; the tweet links to factual news about climate change;
 
-<img src="https://antonioscardace.altervisI've made tests on two US profiles owned by well-known activists - Greta Thunberg and Leonardo Di Caprio.
-In time, with an appropriate dataset, may be made analytics on how many VIPs are interested (and how) in climate change for each main job category (such as politics, cinema, and football).ta.org/smm/dataset_distr.png" alt="dataset tweets distribution" style="width: 550px; margin-top: 10px; border: 1px solid #555"/>
+<img src="https://antonioscardace.altervista.org/smm/dataset_distr.png" alt="dataset tweets distribution" style="width: 550px; margin-top: 10px; border: 1px solid #555"/>
 
 ## Real World Application
 
